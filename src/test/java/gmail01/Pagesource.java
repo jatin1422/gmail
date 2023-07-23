@@ -22,11 +22,10 @@ public class Pagesource {
 		driver = new ChromeDriver();
 		
 		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
-<<<<<<< HEAD
-=======
-		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
+
+
 	
->>>>>>> 5870c218a4689a06fb45766b4fd1f8edbf9c9aeb
+	
 
 
 	
