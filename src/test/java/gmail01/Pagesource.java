@@ -13,6 +13,8 @@ public class Pagesource {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
+		//hello good night
+		
 
 		WebDriver driver;
 		
@@ -21,14 +23,7 @@ public class Pagesource {
 		
 		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
 		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
-<<<<<<< HEAD
-		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
-		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
-		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
-
-=======
 	
->>>>>>> 2395fddd98cb26d7c20016dfbf88526c647fc19a
 
 
 	
