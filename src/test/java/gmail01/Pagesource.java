@@ -20,6 +20,7 @@ public class Pagesource {
 		driver = new ChromeDriver();
 		
 		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
+		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
 		
 
 	
