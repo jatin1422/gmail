@@ -21,6 +21,8 @@ public class Pagesource {
 		
 		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
 		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
+		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
+
 
 	
 	  int row =driver.findElements(By.xpath("//table[@class='gs-o-table']//tr")).size();
