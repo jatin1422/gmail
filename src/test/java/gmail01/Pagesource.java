@@ -20,6 +20,8 @@ public class Pagesource {
 		driver = new ChromeDriver();
 		
 		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
+		driver.get("https://www.bbc.com/sport/football/premier-league/top-scorers");
+
 	
 	  int row =driver.findElements(By.xpath("//table[@class='gs-o-table']//tr")).size();
 	 int col = driver.findElements(By.xpath("//table[@class='gs-o-table']//tr[1]//td")).size();
